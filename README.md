@@ -4,6 +4,7 @@
 固定到开始菜单的方法：
 
 首先，随意从系统内Copy一个.exe到桌面
+
 ![image](https://github.com/FrodoTTK/System-Scripts-Commands/assets/156465905/c05c0503-4baa-4339-99db-adbeb268458c)
 
 然后右键此.exe文件，将其固定到开始
@@ -22,6 +23,7 @@
 最后再修改文件名，即可将脚本文件的快捷方式固定到开始菜单
 
 ![image](https://github.com/FrodoTTK/System-Scripts-Commands/assets/156465905/c12f0932-cb46-46a5-ac65-84a02c30d57a)
+
 
 
 
