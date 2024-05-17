@@ -1,7 +1,11 @@
 DisableProxy.cmd：禁用系统代理，用于开机自启clash等代理软件时，自动连接了代理，此时可以运行此脚本禁用系统代理，无需打开软件进行设置即可断开VPN连接
+
 EnableProxy.cmd：与DisableProxy.cmd是相反的效果
+
 LockF.bat：在BitLocker加密了某一磁盘且用户手动解密后，可以运行此脚本以直接锁定指定盘符，无需打开Explorer手动锁定
+
 Restart Explorer.cmd：重启Windows文件资源管理器，用于任务栏和开始菜单卡死，桌面背景突然全黑，且任务管理器迟迟无法打开的情况
+
 
 某些需要经常重复操作的系统设置，总是打开Windows设置很麻烦，
 以下是将bat等脚本文件固定到Windows 开始菜单 & Windows 任务栏的方法：
