@@ -27,6 +27,7 @@
 ![image](https://github.com/FrodoTTK/System-Scripts-Commands/assets/156465905/443af9fa-33c4-4079-8e2e-254ab7cc3392)
 
 右键此任务，选择固定到任务栏
+
 ![image](https://github.com/FrodoTTK/System-Scripts-Commands/assets/156465905/e7b671b8-c69e-49e6-bd7a-dffc78559b6a)
 
 然后在Everything软件中搜索刚刚固定的应用名称，找到后缀名为.link，且路径中包含Quick Launch的文件
