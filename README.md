@@ -2,6 +2,7 @@
 以下是将bat等脚本文件固定到Windows 开始菜单 & Windows 任务栏的方法：
 
 固定到开始菜单的方法：
+
 首先，随意从系统内Copy一个.exe到桌面
 ![image](https://github.com/FrodoTTK/System-Scripts-Commands/assets/156465905/c05c0503-4baa-4339-99db-adbeb268458c)
 
@@ -22,7 +23,10 @@
 
 ![image](https://github.com/FrodoTTK/System-Scripts-Commands/assets/156465905/c12f0932-cb46-46a5-ac65-84a02c30d57a)
 
+
+
 固定到任务栏的方法：
+
 首先随意启动一个非UWP，且非Windows系统内置应用
 
 ![image](https://github.com/FrodoTTK/System-Scripts-Commands/assets/156465905/443af9fa-33c4-4079-8e2e-254ab7cc3392)
