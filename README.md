@@ -7,8 +7,7 @@ LockF.bat：在BitLocker加密了某一磁盘且用户手动解密后，可以�
 Restart Explorer.cmd：重启Windows文件资源管理器，用于任务栏和开始菜单卡死，桌面背景突然全黑，且任务管理器迟迟无法打开的情况
 
 
-某些需要经常重复操作的系统设置，总是打开Windows设置很麻烦，
-以下是将bat等脚本文件固定到Windows 开始菜单 & Windows 任务栏的方法：
+某些需要经常重复操作的系统设置，可以通过以下方法将bat等脚本文件固定到Windows 开始菜单 或 Windows 任务栏：
 
 固定到开始菜单的方法：
 
