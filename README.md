@@ -1,3 +1,8 @@
+### ToggleWifiRadio.ps1
+- Can turn on or off the wireless button in Windows 11 (Not tested in Windows 10 yet).
+```PS D:\path\to\your\folder> .\ToggleWifiRadio.ps1 -Status 'Off'```
+```PS D:\path\to\your\folder> .\ToggleWifiRadio.ps1 -Status 'On'```
+
 ### DisableProxy.cmd
 - 禁用系统代理，用于开机自启clash等代理软件时，自动连接了代理，此时可以运行此脚本禁用系统代理，无需打开软件进行设置即可断开VPN连接
 
